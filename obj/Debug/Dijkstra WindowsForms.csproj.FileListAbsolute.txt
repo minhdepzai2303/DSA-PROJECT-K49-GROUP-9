@@ -1,0 +1,20 @@
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.exe.config
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.exe
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.pdb
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.AssemblyReference.cache
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra_WindowsForms.Form1.resources
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra_WindowsForms.Properties.Resources.resources
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.GenerateResource.cache
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.CoreCompileInputs.cache
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.exe
+D:\HK3\2. Cấu trúc dữ liệu và giải thuật\Dijktra trong tính chi phí vận chuyển tối thiểu\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.pdb
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.exe.config
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.exe
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\bin\Debug\Dijkstra WindowsForms.pdb
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.AssemblyReference.cache
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra_WindowsForms.Form1.resources
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra_WindowsForms.Properties.Resources.resources
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.GenerateResource.cache
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.csproj.CoreCompileInputs.cache
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.exe
+D:\UEH năm 2\final DSA\Dijkstra WindowsForms\obj\Debug\Dijkstra WindowsForms.pdb
