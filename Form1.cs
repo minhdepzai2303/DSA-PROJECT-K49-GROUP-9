@@ -153,6 +153,12 @@ namespace Dijkstra_WindowsForms
             int start = comboBox1.SelectedIndex;
             int end = comboBox2.SelectedIndex;
 
+            if(start == end )
+            {
+                MessageBox.Show("Choose another end-city!","Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }    
+
             int cost = theGraph.Path(start, end);
             
             textBox2.Text = cost.ToString();

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2D09FE16-4589-45C6-976B-AA6918EA4FCE}|Dijkstra WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D09FE16-4589-45C6-976B-AA6918EA4FCE}|Dijkstra WindowsForms.csproj|d:\\ueh n\u0103m 2\\final dsa\\dijkstra windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2D09FE16-4589-45C6-976B-AA6918EA4FCE}|Dijkstra WindowsForms.csproj|D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2D09FE16-4589-45C6-976B-AA6918EA4FCE}|Dijkstra WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -54,9 +54,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAEUAAAAsAAAAAAAAAA==",
+              "ToolTip": "D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJ0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T02:09:48.568Z",
               "EditorCaption": ""
@@ -70,8 +70,7 @@
               "ToolTip": "D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\ClassDiagram1.cd",
               "RelativeToolTip": "ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-12-09T08:09:47.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:09:47.439Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "Graph.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T08:03:29.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:03:29.591Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "DistOriginal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T08:03:15.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:03:15.363Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "Vertex.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T08:02:52.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:02:52.124Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:51:00.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T16:51:00.443Z"
             },
             {
               "$type": "Document",
@@ -134,8 +129,7 @@
               "ToolTip": "D:\\UEH n\u0103m 2\\final DSA\\Dijkstra WindowsForms\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:10:25.265Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-08T15:10:25.265Z"
             },
             {
               "$type": "Document",
@@ -147,8 +141,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:54:06.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T16:54:06.635Z"
             }
           ]
         }
